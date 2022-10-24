@@ -1,0 +1,37 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git bash é um terminal estendido para otimizar o uso do Git.
+ --------------Códigos do Git bash------------------------
+“git init” Criando um repositório do Git na pasta selecionada;
+“cd ..” é para voltar ao diretório anterior
+“dir” do Windows é para ver tudo que está na pasta
+“ls” do Linux  é para ver tudo que está na pasta 
+“cls” Para limpar a tela no Windows
+“clear” Para limpar a tela no Linux
+“mkdir” é para criar uma pasta
+“sudo su” é para pegar permissão no Linux
+“echo” Printa de volta um texto que escrevi
+“echo Hello(exemplo) “>”  hello.txt(exemplo)” serve para criar um arquivo dentro da pasta
+“del” é para deletar todo arquivo que está no repositório ou diretório selecionada no Windows
+“rmdir” serve para remover o repositório com todos os arquivos dentro dele windows
+“rm -rf” serve para remover o repositório ou diretório LINUX
+“-rf” esse “r” é recursivo significa que irá deletar todas as pastas contidas dentro LINUX e o “f” significa “force” que irá deletar sem pedir confirmação
+“ls -a” Mostra arquivos ocultos;
+“cd .git” É para entrar na pasta oculta;
+“git config --global user.email "email"” -> Quando usa pela primeira vez o git tem que cadastrar o email e o Usuário ->  “git config --global user.name nome”; 
+Arquivos com extensão markdown tem que ser aberto com “.md” no final
+“git status” -> monitorar os status dos arquivos;
+“mv” -> Comando para mover um arquivo;
+“git config --list” -> Para mostrar a lista de configurações do GIT;
+“git config --global --unset user.name(exemplo)” -> para excluir alguma configuração pré-estabelecida;
+“git remote add origin” -> Serve para empurrar a versão do repositório local para um repositório remoto, uma origem remota;
+“git remote -v” -> Serve para listar as listas de repositórios remotos que tem cadastrado;
+“git push” -> Serve para empurrar o código do repositório local para um repositório remoto; 
+“Git pull” -> Serve para caso aja uma alteração no arquivo  ele ira puxar essa alteração e juntar;
+“ssh-keygen -t ed25519 -C -seu email-” Serve para criar uma chave para estabelecer um conexão mais segura, gerar uma chave Pública;
+"pwd" É para saber em que repositório você está;
+"eval $(ssh-agent -s)" Para adicionar a chave privada;
+"ls -al ~/.ssh" Para saber se já existem chaves regitradas na maquina;
+"git add *" Serve para adicionar todos os arquivos no controle de versão local;
+
+
+
