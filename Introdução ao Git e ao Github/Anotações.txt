@@ -33,6 +33,7 @@ Arquivos com extensão markdown tem que ser aberto com “.md” no final
 "ls -al ~/.ssh" Para saber se já existem chaves regitradas na maquina;
 "git add *" Serve para adicionar todos os arquivos no controle de versão local;
 "git commit -m "-Mensagem qualquer-"" Cria um commit para aqule arquivo;
+"git push origin main" Serve para acrescentar o local no remoto(GitHub);
 COMMIT -> é o ato de enviar e guardar, ou seja, enviar dados ou códigos para armazenamento em um banco de dados ou em um sistema de controle de versão.
 
 
