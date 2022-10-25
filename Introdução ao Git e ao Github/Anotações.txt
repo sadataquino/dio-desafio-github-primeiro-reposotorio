@@ -10,7 +10,7 @@ O Git bash é um terminal estendido para otimizar o uso do Git.
 “mkdir” é para criar uma pasta
 “sudo su” é para pegar permissão no Linux
 “echo” Printa de volta um texto que escrevi
-“echo Hello(exemplo) “>”  hello.txt(exemplo)” serve para criar um arquivo dentro da pasta
+“type nul >  Qualquernome.txt” serve para criar um arquivo dentro da pasta
 “del” é para deletar todo arquivo que está no repositório ou diretório selecionada no Windows
 “rmdir” serve para remover o repositório com todos os arquivos dentro dele windows
 “rm -rf” serve para remover o repositório ou diretório LINUX
